@@ -1,0 +1,12 @@
+.Item{
+    display: inline-block;
+    border: 1px solid #077e66;
+    border-radius: 15%;
+    padding: 10px;
+    height: 80px;
+    width: 230px;
+    margin: 10px;
+}
+.Info{
+    display: inline-block;
+}
