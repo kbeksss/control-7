@@ -1,4 +1,6 @@
 .Main {
     display: flex;
     justify-content: center;
+    margin: 30px auto 0;
+    max-width: 1200px;
 }
